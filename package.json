@@ -1,0 +1,20 @@
+{
+  "name": "lump",
+  "version": "0.0.1",
+  "description": "It will give u tidy code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "promise",
+    "lump",
+    "snippet",
+    "framework",
+    "lump.js",
+    "test"
+  ],
+  "author": "rex_mark",
+  "license": "MIT"
+}
